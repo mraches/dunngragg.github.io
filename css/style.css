@@ -405,6 +405,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
   float: left;
   width: 100%;
+  padding-bottom: 50px;
 }
 .gtco-cover a {
   color: #7ED321;
