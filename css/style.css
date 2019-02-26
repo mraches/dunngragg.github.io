@@ -58,7 +58,7 @@ p {
   margin-bottom: 30px;
 }
 
-p.platform {
+.platform {
   color: orange;
   font-weight: bold;
   font-size: 14px;
