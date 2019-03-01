@@ -16,7 +16,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   color: #777;
-  background: #f7f7f7;
+  background: #f9f9f9;
 }
 
 #page {
@@ -408,9 +408,9 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 900px;
   background-size: cover;
   background-repeat: no-repeat;
-  position: relative;
-  padding-bottom: 50px;
-  float: left;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 100%;
 }
 .gtco-cover a {
